@@ -1,0 +1,3 @@
+# smartlibot
+
+Smart lichess bot.
