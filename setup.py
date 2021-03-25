@@ -15,7 +15,7 @@ setup(
   python_requires=">=3.6",
   install_requires=[              
     "python-chess==0.23.5",
-    "PyYAML==3.12",
+    "PyYAML==5.4",
     "requests==2.18.4",
     "urllib3==1.22",
     "backoff==1.5.0"
