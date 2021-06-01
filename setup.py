@@ -17,7 +17,7 @@ setup(
     "python-chess==0.23.5",
     "PyYAML==3.12",
     "requests==2.18.4",
-    "urllib3==1.22",
+    "urllib3==1.26.5",
     "backoff==1.5.0"
   ],
   classifiers=[        
